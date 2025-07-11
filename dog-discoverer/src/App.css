@@ -1,0 +1,33 @@
+.app {
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  min-height: 100vh;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.6rem 1rem;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+.dog-card {
+  margin-top: 1.5rem;
+}
+
+.attributes button {
+  background-color: #a17917;
+}
+
+.ban-list {
+  margin-top: 2rem;
+}
