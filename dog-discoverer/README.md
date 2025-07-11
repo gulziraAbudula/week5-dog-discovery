@@ -45,6 +45,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/gulziraAbudula/week5-dog-discovery/blob/ccd84edf6e810f435b6d015e141dc43a6aacb9a1/dog-discoverer/src/assets/Codepath_WEB102_Week05.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
